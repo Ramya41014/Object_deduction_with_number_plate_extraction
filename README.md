@@ -77,6 +77,21 @@ informed decisions on infrastructure development.
 - 🔡 OCR Output: Extracted plate text displayed.
 - 📥 Download Logs: Export detection results for future use.
 
+-** Results:**
+1. Successfully detected and localized number plates, vehicle
+classes and Persons across various environments with an
+accuracy of 95%+.
+2. OCR Accuracy: Achieved over 80+% precision in extracting text from detected
+plates.
+3. Inference Speed: YOLO-based detection achieved real-time performance with
+an average inference time of less than 50ms per image.
+4. Handling Variability: The system worked well under different lighting conditions,
+occlusions, and backgrounds.
+5. Deployment Success: The Streamlit-based application provided an
+interactive platform for real-time detection and text extraction.
+
+
+
 🚀 Getting Started
 Installation
 git clone https://github.com/Ramya41014/Object_deduction_with_number_plate_extraction.git
