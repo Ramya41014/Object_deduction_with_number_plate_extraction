@@ -79,7 +79,7 @@ informed decisions on infrastructure development.
 
 🚀 Getting Started
 Installation
-git clone https://github.com/your-username/Object_deduction_with_number_plate_extraction.git
+git clone https://github.com/Ramya41014/Object_deduction_with_number_plate_extraction.git
 cd Object_deduction_with_number_plate_extraction
 pip install -r requirements.txt
 
