@@ -1,0 +1,6 @@
+Extracted Number Plate Information:
+
+Number Plate 1:
+  Text: PGC1LO6N
+  Confidence: 0.97
+
